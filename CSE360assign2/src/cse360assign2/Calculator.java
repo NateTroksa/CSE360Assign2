@@ -25,23 +25,23 @@ public class Calculator {
 	
 	//adds to the total variable
 	public void add (int value) {
-		
+		total += value;
 	}
 	
 	//subtracts from the total variable
 	public void subtract (int value) {
-		
+		total -= value;
 	}
 	
 	//multiplies the total variable
 	public void multiply (int value) {
-		
+		total *= value;
 	}
 	
 	
 	//divides the total variable
 	public void divide (int value) {
-		
+		total /= value;
 	}
 	
 	//returns the history of the calculators functions
