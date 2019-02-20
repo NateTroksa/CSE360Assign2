@@ -1,7 +1,7 @@
 /*
  *  Nathaniel Troksa
  *  ID: 1212853289
- * CSE360 assignment 1
+ * CSE360 assignment 2
  * This program is a formatted version of the provided file 
  * The program provides the basic functions of a calculator
  */
